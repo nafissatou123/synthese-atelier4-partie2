@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "The computers",
+      "price": 4500,
+      "checked": true
+    },
+    {
+      "id": "4b6b",
+      "name": "Stylo",
+      "price": "20",
+      "checked": true
+    },
+    {
+      "id": "7b34",
+      "name": "Chargeur",
+      "price": "400",
+      "checked": false
+    },
+    {
+      "id": "1623",
+      "name": "Crayon",
+      "price": "10",
+      "checked": false
+    },
+    {
+      "id": "c5c2",
+      "name": "Gommes",
+      "price": "5",
+      "checked": true
+    },
+    {
+      "id": "1a86",
+      "name": "Regles",
+      "price": "5",
+      "checked": true
+    },
+    {
+      "name": "computer tv",
+      "price": "5000",
+      "checked": true,
+      "id": "WeXxb2j"
+    },
+    {
+      "name": "computer smart",
+      "price": "5000",
+      "checked": false,
+      "id": "yClZXuV"
+    },
+    {
+      "name": "Printer",
+      "price": "3600",
+      "checked": false,
+      "id": "5tNl1KJ"
+    },
+    {
+      "name": "Printer",
+      "price": "3600",
+      "checked": true,
+      "id": "5F58t85"
+    },
+    {
+      "name": "Stylo",
+      "price": "15",
+      "checked": true,
+      "id": "N1OMole"
+    }
+  ]
+}
