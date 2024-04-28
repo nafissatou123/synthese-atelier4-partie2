@@ -1,4 +1,25 @@
 {
+  "users": [
+    {
+      "id":"user1",
+      "password":"MTIzNA==",
+      "roles":["USER"],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsIm5hbWUiOiJOYWZpc3NhdG91IiwicGFzc3dvcmQiOjEyMzQsImlhdCI6MTUxNjIzOTAyMiwicm9sZXMiOlsiVVNFUiJdLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCJ9.N0uXsW-rUxoEN3RPLn83pZrqPzdoJyJPCtsBxZkxGk8"
+    },
+    {
+      "id":"user2",
+      "password":"MTIzNA==",
+      "roles":["USER"],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsIm5hbWUiOiJOYWZpc3NhdG91IiwicGFzc3dvcmQiOjEyMzQsImlhdCI6MTUxNjIzOTAyMiwicm9sZXMiOlsiVVNFUiJdLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCJ9.iWW7nubJWfT9VQU8zYo91S9HT3QqzNLZa5iX5Bbp2dY"
+    },
+    {
+      "id":"admin",
+      "password":"MTIzNA==",
+      "roles":["USER","ADMIN"],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsIm5hbWUiOiJOYWZpc3NhdG91IiwicGFzc3dvcmQiOjEyMzQsImlhdCI6MTUxNjIzOTAyMiwicm9sZXMiOlsiVVNFUiIsIkFETUlOIl0sImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODg4OC9hdXRoIn0.1Fqa6KQpBCb6rGPbfmlhq3WsVRy69bHeuL5pRgXe7QQ"
+    }
+  ],
+
   "products": [
     {
       "id": "1",

@@ -88,5 +88,39 @@ Json-server</h4>
 
 <h3 style="color:blue;">FIN PARTIE 3</h3><br><br>
 
+<h3 style="color:blue;">PARTIE 4</h3>
+
+<h3>Question 15</h3>
+<p>Affichage de la page d'authentification</p>
+<img src="Captures/partie4/1.jpg" alt=""><br><br>
+
+<h3>Question 16</h3>
+<p>Page d'authentification : authentification</p>
+<img src="Captures/partie4/2.jpg" alt=""><br>
+<p>Page d'authentification : utilisateur authentifié</p>
+<img src="Captures/partie4/2.1.jpg" alt=""><br>
+<p>Page d'authentification : Acces avec le nouveau url vers les autres pages</p>
+<img src="Captures/partie4/2.2.jpg" alt=""><br><br>
+
+
+<h3>Question 17</h3>
+<p>Obtention du token pour les nouveaux utilisateurs</p>
+<img src="Captures/partie4/3.jpg" alt=""><br><br>
+
+<h3>Question 18</h3>
+<p>Liste des utilisateurs : RestAPI (users)</p>
+<img src="Captures/partie4/4.jpg" alt=""><br>
+<p>user1</p>
+<img src="Captures/partie4/4.1.jpg" alt=""><br><br>
+
+<h3>Question 19</h3>
+<p>Authentification et verification avec le token grace au JWT avec Message d'erreur</p>
+<img src="Captures/partie4/5.jpg" alt=""><br><br>
+
+<h3>Question 20</h3>
+<p>Authentification avec le nom de l'utilisateur affiché dans la barre de navigation</p>
+<img src="Captures/partie4/6.jpg" alt=""><br><br>
+
+
 
 
